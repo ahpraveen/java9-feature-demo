@@ -10,3 +10,10 @@ Features:
 
 3/ Try with Resource enhancements
 
+To do:
+
+4/ Diamond Operator Enhancement
+
+5/ Safe Varargs Annotations
+
+6/ Java 9 Modules
